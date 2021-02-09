@@ -38,3 +38,4 @@ Difficulty getting the posters to display in the "Hero" tab.
 ### Notes
 Describe any challenges encountered while building the app.
 Getting the cells to display the image(poster). But managed to get the posters to display correctly on the app. 
+
